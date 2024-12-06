@@ -8,4 +8,4 @@ For this project, I created a String library that contains the following methods
 
 ## Example Output:
 
-file:///Users/nellcashout/Desktop/Output.png
+img<src= 'file:///Users/nellcashout/Desktop/Output.png' title='Output' width='' alt='Output'
